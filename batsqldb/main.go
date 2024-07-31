@@ -1,0 +1,5 @@
+package batsqldb
+
+func main() {
+
+}
